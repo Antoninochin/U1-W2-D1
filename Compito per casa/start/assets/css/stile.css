@@ -363,6 +363,16 @@ footer a {
     iframe{
         display: none;
     }
+    footer{
+        display:none;
+    }
+    aside{
+        display:none;
+    }
+    section{
+        display:none;
+    }
+    
 
 
 }
