@@ -357,10 +357,10 @@ footer a {
     }
 }
 @media print{
-    body{
-        display:none
+    header{
+        display: none;
     }
-    table{
+    iframe{
         display: none;
     }
 
