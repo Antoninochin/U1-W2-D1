@@ -356,3 +356,13 @@ footer a {
         font-size: 14px;
     }
 }
+@media print{
+    body{
+        display:none
+    }
+    table{
+        display: none;
+    }
+
+
+}
